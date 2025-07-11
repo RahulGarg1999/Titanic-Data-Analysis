@@ -2,6 +2,7 @@
 Titanic Data Analysis Project
 This repository contains a Python script for analyzing the Titanic dataset using pandas, matplotlib, seaborn. It includes data loading, cleaning, visualization, and basic preprocessing steps.
 
+
 📌 Features
 
 ✅ Load Titanic data from CSV
@@ -20,11 +21,13 @@ This repository contains a Python script for analyzing the Titanic dataset using
 
 ✅ Matplotlib and Seaborn plots
 
+
 🗂️ Project Structure:
 .
 ├── analysis_script.py      # Main Python script
 ├── Titanic.csv             # Dataset (you'll need to add this)
 └── README.md               # This file
+
 
 ⚙️ Requirements
 
@@ -42,6 +45,7 @@ Install them using:
 
 pip install pandas matplotlib seaborn numpy
 
+
 🚀 How to Run
 
 1️⃣ Place your Titanic.csv file in the same folder as the script.
@@ -49,6 +53,7 @@ pip install pandas matplotlib seaborn numpy
 2️⃣ Run the script:
 
 python analysis_script.py
+
 
 📊 Analysis Steps in Script
 
@@ -92,6 +97,7 @@ Handling missing Age values.
 
 Dropping unwanted columns for final dataset.
 
+
 📈 Example Visuals
 
 Pie chart of survived vs not-survived passengers
@@ -101,6 +107,7 @@ Bar chart of passengers per class
 Histograms of age distribution
 
 Countplots for survival by class and gender
+
 
 ✅ Notes
 
