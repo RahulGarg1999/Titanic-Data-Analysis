@@ -3,6 +3,7 @@ Titanic Data Analysis Project
 This repository contains a Python script for analyzing the Titanic dataset using pandas, matplotlib, seaborn. It includes data loading, cleaning, visualization, and basic preprocessing steps.
 
 📌 Features
+
 ✅ Load Titanic data from CSV
 
 ✅ Explore data shape, columns, data types
@@ -10,9 +11,13 @@ This repository contains a Python script for analyzing the Titanic dataset using
 ✅ Descriptive statistics and info
 
 ✅ Survival analysis with pie charts and bar plots
+
 ✅ Gender and class-based visualizations
+
 ✅ Age distribution histograms
+
 ✅ Data cleaning (missing values, encoding)
+
 ✅ Matplotlib and Seaborn plots
 
 🗂️ Project Structure:
