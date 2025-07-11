@@ -4,8 +4,11 @@ This repository contains a Python script for analyzing the Titanic dataset using
 
 📌 Features
 ✅ Load Titanic data from CSV
+
 ✅ Explore data shape, columns, data types
+
 ✅ Descriptive statistics and info
+
 ✅ Survival analysis with pie charts and bar plots
 ✅ Gender and class-based visualizations
 ✅ Age distribution histograms
